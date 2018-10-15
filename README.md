@@ -1,4 +1,4 @@
-## rn-doc-scanner-android
+## rn-doc-scanner
 
 ### Installation 🚀
 ```

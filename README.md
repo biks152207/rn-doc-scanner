@@ -1,19 +1,9 @@
 ## rn-doc-scanner-android
 
 ### Installation 🚀
-Optional
+```
+yarn add https://github.com/biks152207/rn-doc-scanner.git
 
-`react-native-git-upgrade`
-
-or delete node_modules folder
-
-`react-native upgrade`
-    
-```bash
-create-react-native-app rndocscannerExample
-cd rndocscannerExample
-yarn add https://github.com/Diastorm/rn-doc-scanner-android.git
-yarn eject
 ```
 
 select React Native: first option
